@@ -1,0 +1,6 @@
+{"mammals":[
+    {"name":"Cat","maxage":"14","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg"},
+    {"name":"Dog","maxage":"18","photo":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=0.672xw:1.00xh;0.166xw,0&resize=640:*"},
+    {"name":"Cheetah","maxage":"28","photo":"https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg"},
+    {"name":"Lion","maxage":"40","photo":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Cecil_the_lion_at_Hwange_National_Park_%284516560206%29.jpg"}
+]}
